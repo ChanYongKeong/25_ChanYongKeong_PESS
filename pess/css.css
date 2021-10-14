@@ -1,0 +1,20 @@
+nav {
+	width: 100%;
+	display: block;
+	position: absolute;
+	background-color: #000000;
+}
+nav a {
+	color: #0000ff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+nav a:hover {
+	color: #ff0000;
+}
+
+form {
+	background-color: #ff00000;
+}
